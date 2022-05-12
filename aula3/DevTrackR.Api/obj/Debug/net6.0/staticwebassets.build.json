@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "HDYCZrxXWm6PMb1tD67q++xNHrNP7kofhr2l4ZNRx8Y=",
+  "Source": "DevTrackR.Api",
+  "BasePath": "_content/DevTrackR.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

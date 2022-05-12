@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "WW+g2iN+8Ai/Yipa53dnmzcYxcZ7OBCJQFvOEtg+hpfSjtwM5xvy08BiQOToM7x0e05a+WoZcLwGG5hadrDytA==",
+  "success": true,
+  "projectFilePath": "/home/julia/jornada.net/aula3/DevTrackR.Api/DevTrackR.Api.csproj",
+  "expectedPackageFiles": [
+    "/home/julia/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/julia/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/julia/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/home/julia/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/home/julia/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/home/julia/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
