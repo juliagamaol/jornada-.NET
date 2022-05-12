@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using DevTrackR.Api.Entities;
 
+// armazenar os objetos que forem salvos na memória 
 namespace DevTrackR.Api.Persistence
 {
     public class DevTrackRContext
